@@ -1,12 +1,16 @@
 Update: autocompletion is now broken since Linkedin has changed its backend for typeahead.
 
 This tool allows any LinkedIn user to search for people or jobs with their own credentials.\
+Download in
+```
+github.com:ronaldchan333/LinkedIn-search-export-tool-t0-excel.git
+
+```
 Install the modified version with:
 
 ```
 pip install lib/linkedin_api
 ```
-
 Install dependencies with:
 
 ```
